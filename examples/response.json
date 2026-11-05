@@ -1,0 +1,1 @@
+{"response":"Hello! Here is the requested summary.","rules":{"min_chars":10,"max_chars":500,"required_terms":["summary"],"banned_terms":["confidential"],"no_urls":true}}
